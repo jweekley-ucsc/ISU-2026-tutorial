@@ -1,4 +1,4 @@
-# AI Unlocked: AI-Enabled Education and Research on the National Research Platform
+# Iowa State NRP Traiing: AI-Enabled Education and Research on the National Research Platform
 
 This repository contains the AI Unlocked tutorial materials for using NRP-hosted JupyterHub, Kubernetes, GPU resources, managed LLM inference, agentic CLI tools, and custom classroom JupyterHubs.
 
@@ -6,7 +6,7 @@ This repository contains the AI Unlocked tutorial materials for using NRP-hosted
 
 To automatically clone this repository into the pre-authenticated JupyterLab environment on NRP, use:
 
-**[Launch AI Unlocked Tutorial Workspace](https://training.nrp-nautilus.io/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnrp-nautilus%2Fai-unlocked-tutorial&branch=main&urlpath=lab%2Ftree%2Fai-unlocked-tutorial%2F)**
+**[Launch AI Unlocked Tutorial Workspace](https://training.nrp-nautilus.io/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fjweekley-ucsc%2FISU-2026-tutorial&urlpath=tree%2FISU-2026-tutorial%2F&branch=main)**
 
 The working directory inside JupyterLab is:
 
