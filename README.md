@@ -2,6 +2,16 @@
 
 This repository contains the AI Unlocked tutorial materials for using NRP-hosted JupyterHub, Kubernetes, GPU resources, managed LLM inference, agentic CLI tools, and custom classroom JupyterHubs.
 
+## 📋 Pre-training survey — please take 2 minutes before we start
+
+<a href="images/pre-training-survey-qr.png"><img src="images/pre-training-survey-qr.png" alt="Pre-training survey QR code" width="180" align="right"></a>
+
+Scan the QR on the right (or open [`https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_3wQP0UrsPXy3nMO?Q_CHL=qr`](https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_3wQP0UrsPXy3nMO?Q_CHL=qr)) to take the **pre-training survey**. It's a quick set of questions about your prior Kubernetes / NRP / AI experience and what you hope to get out of the session.
+
+Comparing pre- and post-training responses is how we measure whether these materials actually move the needle, and what to keep, cut, or rework for future cohorts. The more responses we get, the better the next group's experience will be.
+
+<br clear="right">
+
 ## Quick Start
 
 To automatically clone this repository into the pre-authenticated JupyterLab environment on NRP, use:
